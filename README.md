@@ -8,3 +8,6 @@ Learnt - Github repository-Commit-new repository-
 
 
 This is my second commit today 22/11/2021
+
+Today i learnt Gitlab runner and git bash with CICD pipeline 08/12/2021
+
